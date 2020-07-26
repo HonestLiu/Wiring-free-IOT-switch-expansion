@@ -160,5 +160,5 @@ void loop()
 {¨config¨{¨headerColor¨¨transparent¨¨headerStyle¨¨light¨¨background¨{¨img¨´´}}¨dashboard¨|{¨type¨¨btn¨¨ico¨¨fad fa-lightbulb-on¨¨mode¨Ê¨t0¨¨灯光状态¨¨t1¨¨文本2¨¨bg¨Ì¨cols¨Í¨rows¨Í¨key¨¨Light¨´x´Ë´y´Í¨speech¨|¦¨act¨¨cmd¨‡¨on¨¨开灯¨¨off¨¨关灯¨—÷¨lstyle¨Ë}÷¨actions¨|¦ß
 ```
 ### 代码仓库地址
-> [AliGenie_Light](https://github.com/liucheng-github/AliGenie_Light)
+> [AliGenie_Light](https://github.com/liucheng-github/AliGenie-Switch-extension)
 
