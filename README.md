@@ -159,3 +159,6 @@ void loop()
 ```
 {¨config¨{¨headerColor¨¨transparent¨¨headerStyle¨¨light¨¨background¨{¨img¨´´}}¨dashboard¨|{¨type¨¨btn¨¨ico¨¨fad fa-lightbulb-on¨¨mode¨Ê¨t0¨¨灯光状态¨¨t1¨¨文本2¨¨bg¨Ì¨cols¨Í¨rows¨Í¨key¨¨Light¨´x´Ë´y´Í¨speech¨|¦¨act¨¨cmd¨‡¨on¨¨开灯¨¨off¨¨关灯¨—÷¨lstyle¨Ë}÷¨actions¨|¦ß
 ```
+
+## 后言
+  如果图片等无法显示或想查看更多我的文章，可前往[我的博客](www.liuchengblog.top)查看[天猫精灵可控开关插件](http://www.liuchengblog.top/index.php/2020/08/18/66/)
